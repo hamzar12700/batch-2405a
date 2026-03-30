@@ -1,0 +1,67 @@
+what are functions?
+
+
+
+ek aisa code jo bar bar repeat ho rha ho usko ham functions kehte hain 
+
+
+
+
+function chaiBanaDo(){
+
+"pani ko boil kiya jaye ga",
+"patti dali jaye gyi"
+"phir cheeni dalni pare gyi",
+"dhood ko dala jaye ga",
+"chai hamari tyar"
+
+}
+
+chaiBanaDo()  
+
+
+
+
+"pani ko boil kiya jaye ga",
+"patti dali jaye gyi"
+"phir cheeni dalni pare gyi",
+"dhood ko dala jaye ga",
+"chai hamari tyar"
+
+
+
+
+"pani ko boil kiya jaye ga",
+"patti dali jaye gyi"
+"phir cheeni dalni pare gyi",
+"dhood ko dala jaye ga",
+"chai hamari tyar"
+
+
+
+{}  ---> block 
+
+if/else , loops , functions , objects 
+
+
+
+
+
+return keyword
+
+
+1.return ke niche ki line nahi chle gyi
+2.jb bhi value return hogi to usko direct chlne se roka ja skta ha
+3.return hamesha ek hi value hogi 
+
+
+
+
+
+
+
+
+
+
+
+
