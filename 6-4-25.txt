@@ -1,0 +1,56 @@
+let rest = ['biryani','halwa pori','nihari',undefined , null , 18]
+
+
+let std = [{
+	fullName : "ali qasim"
+
+},{
+fullName : "muhammad hamza"
+
+
+},{
+
+fullName : "rohan shakir"
+
+
+}];
+
+
+[0]
+std[1]
+[2]
+
+
+
+for loop
+
+
+es5
+for(i=0 ; i >= std.length; i++){
+std[i]
+
+}
+
+
+es6 
+
+arrName.push("sufiyan")
+
+
+forEach 
+
+arrName.forEach(function(){
+
+
+})
+
+
+map
+filter
+findOne
+
+
+
+
+
+
