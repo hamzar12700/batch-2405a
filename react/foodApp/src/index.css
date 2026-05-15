@@ -1,0 +1,19 @@
+.container{
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.cards{
+  height: 380px; 
+  width: 300px; 
+  border: 1px solid black;
+}
+
+.cards img {
+  height: 140px; 
+  width: 100%;
+}
